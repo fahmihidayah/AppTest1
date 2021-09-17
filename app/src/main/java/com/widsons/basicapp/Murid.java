@@ -6,5 +6,5 @@ package com.widsons.basicapp;
  * Company    : PiXilApps
  * Project    : BasicApp
  */
-class Murid {
+public class Murid {
 }
